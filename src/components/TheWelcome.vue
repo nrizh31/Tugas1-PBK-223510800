@@ -16,7 +16,7 @@ import CommunityIcon from './icons/IconCommunity.vue'
     My Name is Naufal Rizh Aubi<br>
     you can call me Naufal <br>
     I from Pekanbaru, Riau <br>
-    I was born in Yogakarta, 31th of january <br>
+    I was born in Yogyakarta, 31th of january <br>
   </WelcomeItem>
 
   <WelcomeItem>
@@ -42,7 +42,7 @@ import CommunityIcon from './icons/IconCommunity.vue'
     <ul>
       <li>Graphic Design</li>
       <li>Database</li> 
-     
+      <li>Web Development</li> 
     </ul>
   </WelcomeItem>
 
